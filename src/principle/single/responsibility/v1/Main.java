@@ -2,7 +2,7 @@
  * "A class should have only one reason to change."
  *  У каждого класса должна быть своя зона ответственности - класс должен иметь интуитивно понятную для себя логику.
  * */
-package principle.single.responsibility;
+package principle.single.responsibility.v1;
 
 public class Main {
     public static void main(String[] args) {

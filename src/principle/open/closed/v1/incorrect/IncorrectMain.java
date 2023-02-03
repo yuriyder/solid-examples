@@ -1,7 +1,7 @@
 /* *
  * "Entities should be open for extension, but closed for modification."
  * */
-package principle.open.closed.incorrect;
+package principle.open.closed.v1.incorrect;
 
 public class IncorrectMain {
     public static void main(String[] args) {
